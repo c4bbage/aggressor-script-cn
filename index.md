@@ -124,16 +124,3 @@ command foo {
 ![Color Options](./images/colors.png)
 \U转义键强调了它后面的文字。第二个\U停止下划线格式。  
 \o escape会重设文件后面的格式。换行符也会重设文本格式。
-
-
-
-
-
-
-
-
-
-
-
-
-
