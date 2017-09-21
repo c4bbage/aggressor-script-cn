@@ -33,6 +33,8 @@ Cobalt Strike提供了几个功能，使数据模型更加直观。
 |sites	|&sites	|Assets hosted by Cobalt Strike|
 |socks	|&pivots	|SOCKS proxy servers and port forwards|
 |targets	|&targets	|Hosts and host information|
+
+
 这些函数为数据模型中的每个条目返回一行数组。每个条目都是具有描述条目的不同键/值对的字典。  
 了解数据模型的最好方法是通过Aggressor Script控制台进行研究。转到 **View** -> **Script Console** 脚本控制台，并使用 `x` 命令来评估表达式。例如：
 ![Querying Data from the Aggressor Script console](./images/data.png)

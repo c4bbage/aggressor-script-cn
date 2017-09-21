@@ -31,6 +31,7 @@ Cobalt Strike提供了一个控制台来控制和与您的脚本进行交互。�
 |unload|script.cna|卸载Sleep脚本|
 |x|2 + 2|执行Sleep表达式获取结果|
 
+
 ![Interacting with the script console](./images/asconsole.png)
 ## Headless Cobalt Strike
 您可以使用Aggressor Scripts 而不使用Cobalt Strike GUI。 **agscript** 程序（包括Cobalt Strike Linux软件包）运行着headless Cobalt Strike客户端。 agscript程序需要四个参数：
